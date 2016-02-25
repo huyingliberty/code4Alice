@@ -88,6 +88,8 @@ public class Case1 {
         driver.pressKeyCode(AndroidKeyCode.BACK);
         driver.context("WEBVIEW_com.ionicframework.tax135288");
         driver.findElementByXPath("html/body/ion-nav-view/ion-tabs/div/a[2]/span").click();
+        
+        
 	}
 
 }
